@@ -1,0 +1,6 @@
+# Removes the virtual environment
+venv
+# Removes the data file used
+data/*.txt
+# Removes pycache files
+*.pyc
