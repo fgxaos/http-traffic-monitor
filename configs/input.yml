@@ -1,0 +1,8 @@
+headers_type:
+  remotehost: str
+  rfc931: str
+  authuser: str
+  date: int
+  request: str
+  status: int
+  bytes: int
